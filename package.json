@@ -1,5 +1,6 @@
 {
   "private": true,
+  "homepage": "https://onlybp001.github.io/huatpage",
   "scripts": {
     "dev": "next",
     "build": "next build && next export",
